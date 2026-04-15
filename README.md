@@ -1,140 +1,141 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e293b,100:0f172a&height=230&section=header&text=MATHAN%20S&fontSize=54&fontColor=e0f4ff&animation=fadeIn&fontAlignY=44&desc=Mobile%20App%20Developer%20%E2%80%94%20Building%20real-world%20Android%20and%20MERN%20applications&descSize=12&descColor=7dd3fc&descAlignY=64" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,30:1d4ed8,70:38bdf8,100:0f172a&text=Mathan%20S&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Learner&descAlignY=58&descSize=15" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1800&color=38BDF8&center=true&vCenter=true&width=900&lines=Integrated+M.Tech+CSE+Student;Android+Developer+with+Java+%2B+XML+%2B+Firebase;MERN+Stack+Developer+building+real-world+projects;Focused+on+clean+UI%2C+strong+logic%2C+and+scalable+apps" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=2500&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=55&lines=mathan%40dev+~+%E2%9D%AF+cat+roles.txt;%5B+Android+Developer+%5D+%E2%9C%93++%5B+MERN+Stack+Developer+%5D+%E2%9C%93++%5B+Full+Stack+Engineer+%5D+%E2%9F%B3+Growing" />
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+</a>
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-### ❯ whoami
+## 👨‍💻 About Me
 
 ```yaml
-name       : Mathan S
-location   : Tamil Nadu, India 🇮🇳
-education  : Integrated M.Tech in Computer Science & Engineering
-role       : Mobile App Developer / MERN Stack Developer
+name        : Mathan S
+location    : Tamil Nadu, India 🇮🇳
+degree      : Integrated M.Tech in Computer Science & Engineering
+role        : Mobile App Developer / MERN Stack Developer
 
-tracks     :
-  📱 Android Development    → Active
-  🌐 MERN Stack            → Active
-  🔥 Firebase Integration  → Strong
-  ⚙ Full Stack Engineering → Growing
+focus       :
+  - Android Development (Java + XML)
+  - MERN Stack Development
+  - Firebase Integration
+  - Full Stack Projects
 
-projects   :
-  ✓ Gesture-Based Mobile Safety System for Women
-  ✓ IoT-Based Gas Leak Detection System
-  ✓ Custom Dashboard Builder (MERN)
-
-open_to    : Internships · Developer Roles
-focus      : Building real-world applications
+goal        : Become a strong Full Stack Engineer 🚀
+open_to     : Internships · Developer Roles
 ```
 
-<br clear="right"/>
+---
+
+## 🚀 What I Do
+
+- 📱 Build Android apps using Java, XML, Firebase  
+- 🌐 Develop full-stack apps using MERN stack  
+- ⚡ Create real-world scalable projects  
+- 🧠 Improve problem solving & coding skills  
 
 ---
 
-### ❯ cat skills.json
+## 🛠 Tech Stack
 
 <div align="center">
 
-**PROGRAMMING LANGUAGES**
+### Languages
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
 
-![Java](https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=38BDF8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=38BDF8)
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=38BDF8)
-![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=38BDF8)
-
+### Mobile Development
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
 <br/>
+<img src="https://img.shields.io/badge/XML-0f172a?style=for-the-badge&logo=html5&logoColor=38BDF8"/>
 
-**MOBILE DEVELOPMENT**
+### MERN Stack
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 
-![Android](https://img.shields.io/badge/Android-0f172a?style=flat-square&logo=android&logoColor=38BDF8)
-![XML](https://img.shields.io/badge/XML-0f172a?style=flat-square&logo=html5&logoColor=38BDF8)
-![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=flat-square&logo=firebase&logoColor=38BDF8)
-![Android Studio](https://img.shields.io/badge/Android_Studio-0f172a?style=flat-square&logo=androidstudio&logoColor=38BDF8)
-
-<br/>
-
-**MERN STACK**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=38BDF8)
-![Express](https://img.shields.io/badge/Express-0f172a?style=flat-square&logo=express&logoColor=38BDF8)
-![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=38BDF8)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=node.js&logoColor=38BDF8)
-
-<br/>
-
-**TOOLS**
-
-![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=38BDF8)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=38BDF8)
-![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=flat-square&logo=visualstudiocode&logoColor=38BDF8)
-![Postman](https://img.shields.io/badge/Postman-0f172a?style=flat-square&logo=postman&logoColor=38BDF8)
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
 ---
 
-### ❯ featured projects
+## 📌 Featured Projects
 
-- 📌 Gesture-Based Mobile Safety System  
-  → SOS alert with GPS tracking using Firebase  
+### 🔹 Gesture-Based Mobile Safety System
+- SOS alert system with GPS tracking  
+- Built using Java + Firebase  
 
-- 📌 IoT Gas Leak Detection  
-  → Real-time monitoring with alerts  
+### 🔹 IoT Gas Leak Detection
+- Real-time alert system  
+- IoT + Mobile integration  
 
-- 📌 Custom Dashboard Builder  
-  → MERN-based drag & drop dashboard with charts  
+### 🔹 Custom Dashboard Builder
+- MERN-based dashboard  
+- Drag & drop widgets + charts  
 
 ---
 
-### ❯ github stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=bae6fd" />
-&nbsp;
-<img width="48%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&background=0f172a&ring=38bdf8&fire=38bdf8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=0f172a&title_color=38bdf8&text_color=bae6fd" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-### ❯ connect
+## 📈 Activity Graph
 
 <div align="center">
 
-<a href="https://github.com/Mathan123678">
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/">
-<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:mathansmathan27@gmail.com">
-<img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
+
+## 💡 Motto
 
 <div align="center">
 
@@ -142,10 +143,14 @@ focus      : Building real-world applications
 Build → Learn → Improve → Repeat 🚀
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=38bdf8)
-
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e293b,100:0f172a&height=120&section=footer" width="100%"/>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=38BDF8" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0f172a,30:1d4ed8,70:38bdf8,100:0f172a&section=footer" width="100%" />
