@@ -120,15 +120,15 @@ focus      : Building real-world applications
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Mathan123678">
 <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/">
 <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:mathansmathan27@gmail.com">
 <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
 
