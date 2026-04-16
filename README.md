@@ -66,7 +66,7 @@ I enjoy working on Android apps and full stack web development using the MERN st
 ## Contact
 
 - GitHub: https://github.com/Mathan123678  
-- LinkedIn: https://linkedin.com/in/  
+- LinkedIn:https://www.linkedin.com/in/mathan-s-336ab2329/ 
 - Email: mathansmathan27@gmail.com  
 
 ---
